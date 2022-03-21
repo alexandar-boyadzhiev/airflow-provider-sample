@@ -25,5 +25,6 @@ setup(
     author='Pete DeJoy',
     author_email='pete@astronomer.io',
     url='http://astronomer.io/',
+    author_email='sample@sample.com',
     python_requires='~=3.7',
 )
